@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Zone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Gaming Zone</h1>
+        <p>Unleash the Gamer in You!</p>
+    </header>
+    <section class="games">
+        <h2>Available Games</h2>
+        <ul>
+            <li>🎮 Call of Duty</li>
+            <li>🚗 Need for Speed</li>
+            <li>⚽ FIFA 24</li>
+            <li>🏹 PUBG</li>
+            <li>🎭 Among Us</li>
+        </ul>
+    </section>
+</body>
+</html>
